@@ -1,0 +1,15 @@
+{
+  "name": "superagent-extend",
+  "version": "0.0.1",
+  "description": "superagent wrapper that enables subclassing",
+  "main": "index.js",
+  "keywords": [
+    "superagent",
+    "plugins",
+    "extend"
+  ],
+  "author": "Kornel Lesiński",
+  "peerDependencies": {
+    "superagent": "*"
+  }
+}
