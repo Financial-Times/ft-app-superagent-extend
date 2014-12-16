@@ -1,7 +1,11 @@
 {
   "name": "superagent-extend",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "superagent wrapper that enables subclassing",
+  "repository": {
+    "type": "git",
+    "url": "http://git.svc.ft.com/users/kornel.lesinski/repos/superagent-extend"
+  },
   "main": "index.js",
   "keywords": [
     "superagent",
