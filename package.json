@@ -4,7 +4,7 @@
   "description": "superagent wrapper that enables subclassing",
   "repository": {
     "type": "git",
-    "url": "http://git.svc.ft.com/users/kornel.lesinski/repos/superagent-extend"
+    "url": "https://github.com/Financial-Times/ft-app-superagent-extend.git"
   },
   "main": "index.js",
   "keywords": [
