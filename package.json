@@ -1,6 +1,6 @@
 {
   "name": "superagent-extend",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "superagent wrapper that enables subclassing",
   "repository": {
     "type": "git",
